@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types *
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -36,13 +36,13 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` +
-  - `INSERT` +
-  - `UPDATE` +
-  - `DELETE` +
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` +
+  - `ORDER BY`: 🎓 known
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
@@ -52,7 +52,7 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` +
+  - `WHERE`: 🎓 known
   - `LIKE`
   - `IN`
   - `BETWEEN`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL *
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis
