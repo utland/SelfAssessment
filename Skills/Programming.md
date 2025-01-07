@@ -1,30 +1,30 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model +
+  - Model: 🎓 known
   - Modeling
   - Subject domain
-  - Algorithm +
-  - Syntax +
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
-  - Abstraction ~
-  - Paradigm +
-  - Programm +
+  - Abstraction: 👂 heard
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language +
+  - Programming language: 🎓 known
   - Contract
-  - Module +
-  - Library +
-  - Package +
-  - Component +
-  - Framework +
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 🎓 known
+  - Framework: 🎓 known
   - Platform
   - Source code
   - Object code
-  - Machine code +
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering ~
-  - Decomposition +
+  - Software engineering: 👂 heard
+  - Decomposition: 🎓 known
   - Control flow
   - Data flow
   - Code reuse
@@ -32,41 +32,41 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value +
-  - Identifier +
-  - Variable +
-  - Constant +
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
   - Scalar
-  - Literal +
-  - Expression +
+  - Literal: 🎓 known
+  - Expression: 🎓 known
   - Heap
-  - Function +
+  - Function: 🎓 known
   - Procedure
-  - Method +
-  - Class +
-  - Prototype +
-  - Event +
-  - Type +
+  - Method: 🎓 known
+  - Class: 🎓 known
+  - Prototype: 🎓 known
+  - Event: 🎓 known
+  - Type: 🎓 known
   - Flag
   - Lexical scope
-  - Code block +
-  - Conditions +
-  - Loops +
-  - Assignment +
-  - Regular expression +
-  - Interface +
+  - Code block: 🎓 known
+  - Conditions: 🎓 known
+  - Loops: 🎓 known
+  - Assignment: 🎓 known
+  - Regular expression: 🎓 known
+  - Interface: 🎓 known
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case +
+  - Camel case: 🎓 known
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types +
+  - Primitive types: 🎓 known
   - Reference types
   - Type systems
   - Strong typing
@@ -82,22 +82,22 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument +
-  - Parameter +
-  - Pure function 
-  - Lambda expression +
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
+  - Pure function
+  - Lambda expression: 🎓 known
   - Side effects
-  - Closure
+  - Closure: 🎓 known
   - Partial application
   - Currying
-  - Higher order
-  - Recursionn +
+  - Higher order: 🎓 known
+  - Recursionn: 🎓 known
   - Tail call optimisation
-  - Callback +
+  - Callback: 🎓 known
   - Listener
-  - Composition
+  - Composition: 🎓 known
   - Pipe
-  - Memoize
+  - Memoize: 🎓 known
   - Wrapper
   - Functor
   - Monad
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array +
-  - Structure +
+  - Array: 🎓 known
+  - Structure: 🎓 known
   - Record
-  - Enum +
-  - Instance +
-  - Object +
-  - Collection +
-  - Set +
-  - Hash table ~
-  - Linked list +
+  - Enum: 🎓 known
+  - Instance: 🎓 known
+  - Object: 🎓 known
+  - Collection: 🎓 known
+  - Set: 🎓 known
+  - Hash table: 👂 heard
+  - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue +
+  - Queue: 🎓 known
   - Stack
   - Deque
-  - Tree ~
+  - Tree: 👂 heard
   - Graph
-  - Iterator +
-  - Mutable state +
-  - Immutable state +
-  - Serialization +
-  - String parsing +
-  - JSON +
+  - Iterator: 🎓 known
+  - Mutable state: 🎓 known
+  - Immutable state: 🎓 known
+  - Serialization: 🎓 known
+  - String parsing: 🎓 known
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler +
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,26 +152,26 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: 🎓 known
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger +
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github +
-  - Docker ~
+  - git: 🎓 known
+  - Github: 🎓 known
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers +
+  - Magic numbers: 🎓 known
   - Hard code
   - Soft code
   - Cryptic code
@@ -203,8 +203,8 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8 +
-  - VJM 
+  - V8: 🎓 known
+  - VJM
   - CLR
   - Mono
 - Operating systems
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux +
-  - Unix +
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS +
-  - Windows +
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
