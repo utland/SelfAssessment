@@ -22,8 +22,8 @@
   - Iterators +
   - Async generator
   - Async iterator
-  - Chaining 
-  - Optional chaining
+  - Chaining +
+  - Optional chaining +
   - IIFE
   - Async IIFE
   - `global`
@@ -84,7 +84,7 @@
   - Function declaration +
   - Function expression +
   - Default parameters +
-  - Functional object
+  - Functional object +
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
@@ -96,8 +96,8 @@
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - Mixins +
+  - `Object.assign` +
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
@@ -117,6 +117,6 @@
   - V8
   - Node.js +
   - npm +
-  - prettier
+  - prettier +
   - MDN
   - TC39

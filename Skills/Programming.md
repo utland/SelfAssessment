@@ -87,17 +87,17 @@
   - Pure function 
   - Lambda expression +
   - Side effects
-  - Closure
+  - Closure +
   - Partial application
   - Currying
-  - Higher order
+  - Higher order +
   - Recursionn +
   - Tail call optimisation
   - Callback +
   - Listener
-  - Composition
+  - Composition +
   - Pipe
-  - Memoize
+  - Memoize +
   - Wrapper
   - Functor
   - Monad
@@ -152,8 +152,8 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime +
+  - Virtual machine +
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,7 +164,7 @@
   - Code review
   - Exception
   - Unittesting
-  - git
+  - git +
   - Github +
   - Docker ~
   - Kubernetes

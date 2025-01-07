@@ -1,7 +1,7 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming +
   - Imperative programming +
   - Structured programming
   - Non-structured programming
@@ -13,7 +13,7 @@
   - Concurrent computing
   - Asynchronous programming ~
   - Parallel programming ~
-  - Reactive programming
+  - Reactive programming +
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
