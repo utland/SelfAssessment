@@ -1,30 +1,30 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model +
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm +
+  - Syntax +
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
+  - Abstraction ~
+  - Paradigm +
+  - Programm +
   - Programming paradigm
-  - Programming language
+  - Programming language +
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Module +
+  - Library +
+  - Package +
+  - Component +
+  - Framework +
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code +
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering ~
+  - Decomposition +
   - Control flow
   - Data flow
   - Code reuse
@@ -32,41 +32,41 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value +
+  - Identifier +
+  - Variable +
+  - Constant +
   - Scalar
-  - Literal
-  - Expression
+  - Literal +
+  - Expression +
   - Heap
-  - Function
+  - Function +
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Method +
+  - Class +
+  - Prototype +
+  - Event +
+  - Type +
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Code block +
+  - Conditions +
+  - Loops +
+  - Assignment +
+  - Regular expression +
+  - Interface +
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case +
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types +
   - Reference types
   - Type systems
   - Strong typing
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Argument +
+  - Parameter +
+  - Pure function 
+  - Lambda expression +
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursionn +
   - Tail call optimisation
-  - Callback
+  - Callback +
   - Listener
   - Composition
   - Pipe
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array +
+  - Structure +
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Enum +
+  - Instance +
+  - Object +
+  - Collection +
+  - Set +
+  - Hash table ~
+  - Linked list +
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue +
   - Stack
   - Deque
-  - Tree
+  - Tree ~
   - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Iterator +
+  - Mutable state +
+  - Immutable state +
+  - Serialization +
+  - String parsing +
+  - JSON +
   - JSON5
   - YAML
 - Networking
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,7 +157,7 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger +
   - Tracing
   - Garbage collection
   - Refactoring
@@ -165,13 +165,13 @@
   - Exception
   - Unittesting
   - git
-  - Github
-  - Docker
+  - Github +
+  - Docker ~
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers +
   - Hard code
   - Soft code
   - Cryptic code
@@ -203,8 +203,8 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
-  - VJM
+  - V8 +
+  - VJM 
   - CLR
   - Mono
 - Operating systems
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux +
+  - Unix +
   - BSD
-  - MacOS
-  - Windows
+  - MacOS +
+  - Windows +
   - Real-time OS
   - Embedded OS
 - Standards

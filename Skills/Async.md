@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop 
+  - `try..catch` 
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O 
+  - Thread pool 
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -17,16 +17,16 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming 
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 
+  - Async/await 
   - Future
   - Deferred
   - Sync generator
@@ -36,7 +36,7 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 
   - Chain of responsibility
   - Middleware
   - Locks
